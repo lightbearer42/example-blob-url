@@ -179,7 +179,7 @@ function App() {
         type: 'PDF'
       },
       {
-        url: '2.pdf',
+        url: '3.pdf',
         type: 'PDF'
       },
         ];
